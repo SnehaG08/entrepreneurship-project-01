@@ -1,1 +1,1 @@
-# healthbuddy-entrepreneurship-project
+# Entrepreneurship Project
